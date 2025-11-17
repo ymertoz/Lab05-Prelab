@@ -33,7 +33,7 @@ def longest_palindromic_substring(s):
 "bb"
 
 >>> longest_palindromic_substring("a")
-""  # Single characters strings are not palindromic
+""  # For the purposes of this question we will not consider single characters as palindromes.
 ```
 
 ### Notes:
